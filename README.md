@@ -89,3 +89,12 @@ CREATE TABLE Movie_Review (
   FOREIGN KEY (movie_id) REFERENCES Movie(movie_id),
   FOREIGN KEY (review_id) REFERENCES Review(review_id)
 );
+
+
+
+<img width="960" alt="2023-03-29" src="https://user-images.githubusercontent.com/112932102/228507027-64f089d1-7ff6-4c36-8e62-42edd8a89bc4.png">
+
+
+
+
+
